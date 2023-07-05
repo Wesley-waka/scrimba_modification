@@ -1,0 +1,25 @@
+body { }
+
+.counter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.counter button {
+  width: 40px;
+  height: 40px;
+  background: #41A5E1;
+  border: none;
+  border-radius: 50%;
+  color: white;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.counter div {
+  margin: 5px;
+  text-align: center;
+  width: 30px;
+  min-width: 30px;
+}
